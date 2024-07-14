@@ -6,6 +6,7 @@
     "title": "About",
     "type": "page"
   },
+  "input": "Input",
   "contact": {
     "title": "Contact ↗",
     "type": "page",
